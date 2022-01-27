@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "advanced-state-management-example",
+    "slug": "advanced-state-management-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "advanced-state-management-example"
+}
